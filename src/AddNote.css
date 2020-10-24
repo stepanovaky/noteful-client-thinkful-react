@@ -1,0 +1,11 @@
+.add-note {
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+}
+
+#large-box {
+    height: 200px;
+    font-size: 14pt;
+}
